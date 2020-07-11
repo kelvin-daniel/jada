@@ -35,3 +35,10 @@ h2 {
     margin: 30px;
     font-weight: 600;
 } 
+
+footer {
+    color: lavender;
+    text-align: center;
+    background-color: slategrey;
+    padding-bottom: 5px;
+}
