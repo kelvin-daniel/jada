@@ -31,5 +31,7 @@ h2 {
 
 .profile {
     color: lavender;
-    
+    border-left: 2px solid #eeeeee;
+    margin: 30px;
+    font-weight: 600;
 } 
